@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To install and enable IIS, you have to locate "World Wide Web Services" on you operating system, then navigate to Application Features, and check off the box labeled CGI.
+To install and enable IIS, you have to Open your control panel, locate "World Wide Web Services" on you operating system, then navigate to Application Features, and check off the box labeled CGI.
 </p>
 <br />
 
