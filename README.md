@@ -32,10 +32,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1164" height="656" alt="Screenshot 2025-08-01 121216" src="https://github.com/user-attachments/assets/c55bc009-84d4-4ac0-a4de-cfcb0331782e" />
+
 </p>
 <p>
-To install and enable IIS, you have to Open your control panel, locate "World Wide Web Services" on you operating system, then navigate to Application Features, and check off the box labeled CGI.
+To install and enable IIS, you have to Open your Control Panel, locate "World Wide Web Services" on the Control Panel, then navigate to Application/Windows Features, and check off the box labeled Internet Information Services.
 </p>
 <br />
 
