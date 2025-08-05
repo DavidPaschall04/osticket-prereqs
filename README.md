@@ -56,10 +56,12 @@ When installing "MySQL", Make sure the setup type is "Typical" and the Configura
 <br />
 
 <p>
-<img width="1164" height="656" alt="Screenshot 2025-08-01 121216" src="https://github.com/user-attachments/assets/c55bc009-84d4-4ac0-a4de-cfcb0331782e" />
+<img width="656" height="572" alt="Screenshot 2025-08-05 180120" src="https://github.com/user-attachments/assets/8fb6b6be-7d3b-4e1b-bffb-0593d3e1d9ae" />
+
+<img width="607" height="612" alt="Screenshot 2025-08-05 180455" src="https://github.com/user-attachments/assets/53b2fd3d-c8dc-4421-84d5-75272e3e634b" />
 
 </p>
 <p>
-Registering PHP with IIS: open Internet Information Services as admin on your computer, and register the PHP manager installed previously. 
+Registering PHP with IIS: open Internet Information Services as admin on your computer and register PHP, Stop and Start the IIS server once PHP is Registered.
 </p>
 <br />
