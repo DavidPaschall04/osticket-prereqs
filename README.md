@@ -41,7 +41,8 @@ To install and enable IIS, you have to Open your Control Panel, locate "World Wi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="758" height="592" alt="Screenshot 2025-08-05 140124" src="https://github.com/user-attachments/assets/f770ad1b-d045-4ccf-97b7-e8a1ab21aeef" />
+
 </p>
 <p>
 Next, Install the PHP Manager and Rewrite Module from https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD . After installing both programs, create a Directory in your C drive called "PHP", then unzip the "PHP 7.3.8" file into the PHP directory. Once you unzip the file, go back into the OsTicket Installation Files and install VC_Redist.
