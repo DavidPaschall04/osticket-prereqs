@@ -53,6 +53,6 @@ Next, Install the PHP Manager and Rewrite Module from https://drive.google.com/u
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install "MySQL" and set the username and password to "root", 
+When installing "MySQL", Make sure the setup type is "Typical" and the Configuration type is "Standard Configuration". Once you make it past those settings, set the username and password to "root" and you will be done configuring MySQL.
 </p>
 <br />
