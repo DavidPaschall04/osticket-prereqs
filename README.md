@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -50,9 +47,19 @@ Next, Install the PHP Manager and Rewrite Module from https://drive.google.com/u
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1163" height="513" alt="Screenshot 2025-08-05 161916" src="https://github.com/user-attachments/assets/fb7096c3-f226-420b-b1aa-6a1baedb9894" />
+
 </p>
 <p>
 When installing "MySQL", Make sure the setup type is "Typical" and the Configuration type is "Standard Configuration". Once you make it past those settings, set the username and password to "root" and you will be done configuring MySQL.
+</p>
+<br />
+
+<p>
+<img width="1164" height="656" alt="Screenshot 2025-08-01 121216" src="https://github.com/user-attachments/assets/c55bc009-84d4-4ac0-a4de-cfcb0331782e" />
+
+</p>
+<p>
+
 </p>
 <br />
