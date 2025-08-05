@@ -60,6 +60,6 @@ When installing "MySQL", Make sure the setup type is "Typical" and the Configura
 
 </p>
 <p>
-
+Registering PHP with IIS: open Internet Information Services as admin on your computer, and register the PHP manager installed previously. 
 </p>
 <br />
