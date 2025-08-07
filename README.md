@@ -111,5 +111,5 @@ Installing osTicket, Final: In the osTicket browser site, Continue setting up by
 <img width="761" height="351" alt="image" src="https://github.com/user-attachments/assets/f2b77817-8c16-4a4d-9e1a-76ab5582ac5f" />
 
 </p>
-After installing osTicket, you have finished the prereqs and installation manual.
+After installing osTicket, you have finished the prereqs and installation tutorial.
 <br />
